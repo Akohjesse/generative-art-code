@@ -1,11 +1,11 @@
 const layersOrder = [
-    {name: 'Background', number:2},
-    {name: 'body outfit', number: 3},
-    {name: 'head', number:1},
-    {name: 'glasses', number:1},
+    {name: 'Background', number:8},
+    {name: 'body outfit', number: 24},
+    {name: 'head', number:15},
+    {name: 'glasses', number:3},
     {name: 'earring', number:3},
-    {name: 'headgear', number:4},
-    {name: 'gear', number:2}
+    {name: 'headgear', number:16},
+    {name: 'gear', number:8}
 ];
   
 const format = {
@@ -19,6 +19,6 @@ const rarity = [
     { key: "_sr", val: "super rare" },
 ];
 
-const defaultEdition = 1;
+const defaultEdition = 9999;
 
 module.exports = { layersOrder, format, rarity, defaultEdition };
