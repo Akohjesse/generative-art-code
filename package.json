@@ -1,0 +1,14 @@
+{
+  "name": "mammoth-nft-gen",
+  "version": "1.0.0",
+  "description": "Mammoth nft collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Akoh",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
