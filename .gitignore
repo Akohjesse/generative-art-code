@@ -1,5 +1,7 @@
 # dependencies
 /node_modules
+layers
+./layers
 /.pnp
 .pnp.js
 
